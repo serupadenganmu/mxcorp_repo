@@ -13,3 +13,5 @@ edit normal
 edit normal 1
 
 edit normal after stash 1
+
+edit stash 1
