@@ -5,3 +5,5 @@ my real edit`
 add to stash
 
 edit normal
+
+edit normal again

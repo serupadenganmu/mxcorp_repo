@@ -7,3 +7,5 @@ edit me
 edit normal
 
 edit stash 1
+
+edit normal 
