@@ -1,1 +1,5 @@
 add f1
+
+my real edit`
+
+add to stash
