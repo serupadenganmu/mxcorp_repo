@@ -5,3 +5,5 @@ add from my local real
 edit me
 
 edit normal
+
+edit stash 1
