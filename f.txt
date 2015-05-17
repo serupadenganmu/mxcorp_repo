@@ -9,3 +9,5 @@ edit normal
 edit stash 1
 
 edit normal 
+
+edit normal 1
