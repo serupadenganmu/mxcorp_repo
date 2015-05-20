@@ -45,3 +45,5 @@ add from local computer
 hasil merge
 
 xxxxxx
+
+add from jauh sekali
