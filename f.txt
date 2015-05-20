@@ -36,6 +36,10 @@ add from remote computer
 
 add from remote sekali lagi
 
+add from local computer again 1
+
 add from local computer
 
 hasil merge
+
+xxxxxx
