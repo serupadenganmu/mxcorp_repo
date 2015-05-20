@@ -46,4 +46,4 @@ hasil merge
 
 xxxxxx
 
-add from jauh sekali
+yyyyyy
