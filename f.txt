@@ -25,3 +25,5 @@ add for conflict
 add for commit 1
 
 add for commit 2
+
+add from remote
