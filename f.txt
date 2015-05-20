@@ -29,3 +29,5 @@ add for commit 2
 add from remote
 
 add from local 
+
+add from local 2
