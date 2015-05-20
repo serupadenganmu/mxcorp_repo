@@ -5,3 +5,5 @@ add you
 add in master
 
 add for push
+
+add for push from other
